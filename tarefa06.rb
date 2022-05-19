@@ -14,8 +14,4 @@ until contador == -1 do
  end
  puts "KABUM "
 
-  puts "Em qual cidade você está?"
-
- STDOUT.flush
- cidade = gets.chomp
-puts "A cidade é " + cidade
+  
